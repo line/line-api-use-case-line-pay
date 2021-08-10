@@ -5,8 +5,8 @@ LINE Payは、LINEユーザーが加盟店で利用できる決済サービス�
 LINE Payを利用することにより、スマホさえあればスムーズな買い物が実現できるようになります。オンライン加盟店なら、決済手段としてLINE Payを選択し、お届け先などを確認し注文を完了すれば、あとは商品の配送を待つだけです。
 
 なお、このページで紹介しているソースコードの環境はAWSを利用しています。  
-※ ドキュメントなどの文言は日本語対応となっています。  
-※ This document is written in only Japanese for now. We’ll translate it later as soon as possible.
+
+※ [The English version document is here.](./docs/en/README_en.md)
 
 # Libraries
 ## Python
@@ -43,11 +43,11 @@ Mac: https://www.python.jp/install/macos/index.html
 こちらの手順では、アプリケーション開発に必要な「LINEチャネル作成、バックエンド・フロントエンドの構築、動作確認」について説明します。
 以下リンク先の手順を参考にし、環境構築を行ってください。
 
-### [LINE チャネルの作成](./docs/liff-channel-create.md)
-### [バックエンドの構築](./docs/back-end-construction.md)
-### [フロントエンド環境構築](./docs/front-end-construction.md)
+### [LINE チャネルの作成](./docs/jp/liff-channel-create.md)
+### [バックエンドの構築](./docs/jp/back-end-construction.md)
+### [フロントエンド環境構築](./docs/jp/front-end-construction.md)
 ***
-### [動作確認](./docs/validation.md)
+### [動作確認](./docs/jp/validation.md)
 ***
 # License
 LINEPayの全てのファイルは、条件なしで自由にご利用いただけます。

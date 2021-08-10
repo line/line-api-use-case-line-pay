@@ -15,4 +15,4 @@ front -> js -> confirm.jsにて、環境ごとに変更が必要な値がある�
 
 [次の頁へ](validation.md)
 
-[目次へ戻る](../README.md)
+[目次へ戻る](../../README.md)
