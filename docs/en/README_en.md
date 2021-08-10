@@ -30,7 +30,7 @@ Install Python (3.8 or higher), used for back-end development, in your local dev
 
 Python installation reference site:
 
-Windows: https://docs.python.org/3/using/windows.html
+Windows: https://docs.python.org/3/using/windows.html  
 Mac: https://docs.python.org/3/using/mac.html
 
 ## AWS SAM

@@ -3,17 +3,17 @@
 A channel is a communication path between a system created by a developer and the LINE Platform.
 The following LINE channels are required for this app. Follow these instructions to create them.
 
-1. LINE channel for Messaging API
-・Channel creation (Japanese only): https://developers.line.biz/ja/docs/clova-extensions-kit/create-messaging-api-channel-t4/
-・About Messaging API: https://lineapiusecase.com/en/api/msgapi.html
+1. LINE channel for Messaging API  
+・Channel creation (Japanese only): https://developers.line.biz/ja/docs/clova-extensions-kit/create-messaging-api-channel-t4/  
+・About Messaging API: https://lineapiusecase.com/en/api/msgapi.html  
 
-1. LINE channel for LIFF
-・Channel creation: https://developers.line.biz/en/docs/liff/registering-liff-apps/
-・About LIFF: https://lineapiusecase.com/en/api/miniliff.html
+1. LINE channel for LIFF  
+・Channel creation: https://developers.line.biz/en/docs/liff/registering-liff-apps/  
+・About LIFF: https://lineapiusecase.com/en/api/miniliff.html  
 
-1. Channel for LINE Pay
-・Channel creation: https://pay.line.me/tw/developers/techsupport/sandbox/testflow?locale=en_US
-・About LINE Pay:  https://lineapiusecase.com/en/api/pay.html
+1. Channel for LINE Pay  
+・Channel creation: https://pay.line.me/tw/developers/techsupport/sandbox/testflow?locale=en_US  
+・About LINE Pay:  https://lineapiusecase.com/en/api/pay.html  
 
 ## 1. Create a LINE account
 
@@ -40,10 +40,10 @@ A provider is a team, company, or individual that manages multiple channels. Pro
 1. While logged in to LINE Developers, access the LINE Developers Console.
    https://developers.line.biz/console/
 2. Click the Create button next to Provider.
-   ![Creating a provider_1_ Image of the created part surrounded by a square](../images/en/line-provider-create-1-en.png)
+   ![Creating a provider_1_ Image of the created part surrounded by a square](../images/en/line-provider-create-1-en.png)  
 3. Enter a provider name and click Create.
 4. Confirm that the provider has been created and that your see this screen.
-   ![Creating a Provider_2](../images/en/line-provider-create-2-en.png)
+   ![Creating a Provider_2](../images/en/line-provider-create-2-en.png)  
 
 ## 4. Create a channel
 
@@ -65,7 +65,7 @@ A provider is a team, company, or individual that manages multiple channels. Pro
    1. Read the LINE Official Account Terms of Service and LINE Official Account API Terms of Service, and select "I agree."
    1. Click Create to create a channel.
    1. The screen of the created channel will appear as shown in the image below, confirming that the channel creation is complete.。
-      ![Creating a channel_2](../images/en/line-channel-create-2-en.png)
+      ![Creating a channel_2](../images/en/line-channel-create-2-en.png)  
       *Make a note of the channel ID and channel secret displayed on the basic channel settings tab, as they will be used in the following steps.
 1. Create a channel for LIFF
    1. On the provider screen that you just created, click LINE Login.
